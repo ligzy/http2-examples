@@ -8,11 +8,11 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>jetty-client</artifactId>
+    <artifactId>jetty-client-http2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>jetty-client</name>
+    <name>jetty-client-http2</name>
 
     <properties>
         <main.class>de.consol.labs.h2c.examples.client.jetty.JettyClientExample</main.class>
